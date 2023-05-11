@@ -1,0 +1,26 @@
+[
+    {
+        "_id":"b39372df-1d31-46a7-a9d8-64b15cf6dc42",
+        "appointment_no":"456504",
+        "name":"Konics Dev",
+        "phone":"63123123123",
+        "email":"jnicnvr@gmail.com",
+        "dateOfAppointment":"2023-04-11",
+        "status":"PENDING",
+        "service":["Acupuncture"],
+        "createdAt":"2023-04-04",
+        "updatedAt":"2023-04-04"
+    },
+    {
+        "_id":"3cba5fba-8b4e-4e42-8e71-471e00d2e8eb",
+        "appointment_no":"376201",
+        "name":"Lana Rhoades",
+        "phone":"63123123123",
+        "email":"jnicnvr02@gmail.com",
+        "dateOfAppointment":"2023-04-12",
+        "status":"PENDING",
+        "service":["Acupuncture"],
+        "createdAt":"2023-04-04",
+        "updatedAt":"2023-04-04"
+    }
+]
